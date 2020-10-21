@@ -1,0 +1,18 @@
+
+body {
+    background-color: darkblue;
+}
+
+
+.naslov {
+    text-align: center;
+    font-size: 40px;
+        font-family: arial;
+        padding-left: 15px;
+        padding-top: 15px;
+        text-align: center;
+        letter-spacing: 4px;
+        size: 49px;    
+        text-shadow: 2px 3px gray;
+
+}

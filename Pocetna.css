@@ -1,0 +1,131 @@
+body {
+    background-color: darkblue;
+}
+
+.naslov {
+    text-align: center;
+    font-size: 40px;
+    font-family: arial;
+    padding-left: 15px;
+    padding-top: 15px;
+    letter-spacing: 4px;
+    size: 49px;
+    text-shadow: 2px 3px gray;
+
+}
+
+.sve {
+    text-align: center;
+}
+
+.paragraf1 {
+    font-family: Arial, "Times New Roman";
+    font-size: 22px;
+    font-style: oblique;
+    font-weight: 100;
+    text-decoration: underline;
+    text-indent: 30px;
+    text-transform: lowercase;
+    color: rgb(77, 0, 0.5);
+    letter-spacing: 5px;
+    word-spacing: 5px;
+}
+
+
+.naslov2 {
+    text-align: center;
+    font-size: 40px;
+    font-family: arial;
+    padding-left: 15px;
+    padding-top: 15px;
+    letter-spacing: 4px;
+    size: 49px;
+    text-shadow: 2px 3px gray;
+
+}
+
+.paragraf2 {
+    font-size: 22px;
+    line-height: 40px;
+}
+
+.naslov3{
+    text-align: center;
+    font-size: 40px;
+    font-family: arial;
+    padding-left: 15px;
+    padding-top: 15px;
+    letter-spacing: 4px;
+    size: 49px;
+    text-shadow: 2px 3px gray;
+
+}
+
+.paragraf3 {
+    font-size: 22px;
+    line-height: 40px;
+}
+
+.naslov4 {
+    text-align: center;
+    font-size: 40px;
+    font-family: arial;
+    padding-left: 15px;
+    padding-top: 15px;
+    letter-spacing: 4px;
+    size: 49px;
+    text-shadow: 2px 3px gray;
+}
+
+.paragraf4 {
+    font-size: 22px;
+    line-height: 40px;
+}
+
+.naslov5{
+    text-align: center;
+    font-size: 40px;
+    font-family: arial;
+    padding-left: 15px;
+    padding-top: 15px;
+    letter-spacing: 4px;
+    size: 49px;
+    text-shadow: 2px 3px gray;
+}
+
+.paragraf5{
+    font-size: 22px;
+    line-height: 40px;
+}
+
+.naslov6{
+    text-align: center;
+    font-size: 40px;
+    font-family: arial;
+    padding-left: 15px;
+    padding-top: 15px;
+    letter-spacing: 4px;
+    size: 49px;
+    text-shadow: 2px 3px gray;
+}
+
+.paragraf6 {
+    font-size: 22px;
+    line-height: 40px;
+}
+
+.naslov7 {
+    text-align: center;
+    font-size: 40px;
+    font-family: arial;
+    padding-left: 15px;
+    padding-top: 15px;
+    letter-spacing: 4px;
+    size: 49px;
+    text-shadow: 2px 3px gray;
+}
+
+.paragraf7 {
+    font-size: 22px;
+    line-height: 40px;
+}

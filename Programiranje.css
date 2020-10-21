@@ -1,0 +1,48 @@
+body {
+    background-color: darkblue;
+    background-size: cover;
+}
+.naslov {
+    text-align: center;
+    text-shadow: 01px 02px darkgray;
+    letter-spacing: 4px; 
+    font-family: arial;
+
+}
+
+.paragraf1 {
+    text-align: center;
+
+}
+
+.assembly {
+    float: right;
+    border-radius: 40px;
+    opacity: 0.9;
+    vertical-align: baseline;
+}
+
+.BASIC {
+    float: right;
+    border-radius: 40px;
+    opacity: 0.9;
+    vertical-align: baseline;
+}
+
+.pascal {
+    float: right;
+}
+
+.c {
+    float: right;
+    border-radius: 40px;
+    opacity: 0.9;
+    vertical-align: baseline;
+}
+
+.java {
+    float: right;
+    border-radius: 40px;
+    opacity: 0.9;
+    vertical-align: baseline;
+}

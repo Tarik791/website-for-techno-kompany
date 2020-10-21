@@ -1,0 +1,76 @@
+.body{
+    background-color: darkblue;
+}
+
+
+
+.naslov {
+    text-align: center;
+    font-family: Arial;
+    text-shadow: 2px 3px gray;
+
+}
+
+.Assembly {
+    text-align: center;
+}
+
+
+.asembly {
+    text-align: center;
+}
+
+#assembly {
+    float: left;
+}
+
+#BASIC {
+    float: left;
+}
+
+
+.basicc {
+    text-align: center;
+}
+
+.basiccc {
+    text-align: center;
+}
+
+#PASCAL {
+    float: left;
+}
+
+.naslovpascal {
+    text-align: center;
+
+}
+.paragrafpascal {
+    text-align: center;
+}
+
+
+.naslovC {
+    text-align: center;
+}
+
+#C {
+    text-align: center;
+}
+
+
+#videozapisC {
+    float: left;
+}
+
+.naslovJAVA{
+    text-align: center;
+}
+
+#paragrafJAVA {
+    text-align: center;
+}
+
+#videozapisJAVA {
+    float: left;
+}
